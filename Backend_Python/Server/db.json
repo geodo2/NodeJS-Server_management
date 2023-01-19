@@ -1,0 +1,8 @@
+{
+	"info": {
+		"host": "localhost",
+		"user": "root",
+		"password": "ex_password",
+		"db": "ex_db"
+	}
+}
