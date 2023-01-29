@@ -4,7 +4,7 @@
 ## Code Contributors
 ## 🧑‍🤝‍🧑 Member
 
-| ![](https://github.com/DevDachan.png) | ![](https://github.com/soominkiminsoo.png) | ![](https://github.com/Yeji222.png) | ![](https://github.com//YeBeenJeon.png) |
+| ![](https://github.com/DevDachan.png) | ![](https://github.com/geodo2.png) | ![](https://github.com/Yeji222.png) | ![](https://github.com//YeBeenJeon.png) |
 | :-----------------------------------: | :-----------------------------------: | :-----------------------------------: | :-----------------------------------: 
 |           **서다찬**            |              **김민수**               |              **홍예지**               |              **전예빈**               |
 
